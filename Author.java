@@ -1,11 +1,8 @@
 package com.opps.bll;
-
 public class Author {
-	
 	public String firstName;
 	public String lastName;
 	public String bookName;
-	
 	public Author() {
 		// TODO Auto-generated constructor stub
 	}
